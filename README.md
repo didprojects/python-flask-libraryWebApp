@@ -1,5 +1,3 @@
-[//]: # (A flask web app to manage library data)
-#  Web Application Report
 
 ## Outline of the Web Application
 The application consists of two main parts. One is a public access for borrowers to search for books' availibility, the other one 
@@ -76,3 +74,6 @@ The web needs to add a branch access for public book search, because readers may
 Issue and Return Book would let the staff choose which branch they would like to issue from or return to. 
 
 Staff page needs to add branch access for staff to check each branch's database information. For example, staff can search book from different branches, list all books of each branch, list loans summary and borrower summary in each branch. 
+
+# python-flask-libraryWebApp
+
