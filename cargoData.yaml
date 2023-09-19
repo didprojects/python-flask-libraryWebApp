@@ -1,0 +1,16 @@
+# cargo mass and volumn, mass unit is Kg, volume unit is m^3
+'10221':
+   mass: 293.0
+   volume: [0.2, 1.2, 2.3]
+'10222':
+   mass: 9.2
+   volume: [2.0, 2.2, 2.3]
+'10223':
+    mass: 193.0
+    volume: [0.2, 1.2, 2.3]
+'10224':
+   mass: 9.2
+   volume: [0, 0, 0]
+'10225':
+   mass: 293.0
+   volume: [0.2, 1.2, 2.3]
