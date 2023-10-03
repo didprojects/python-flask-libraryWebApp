@@ -42,7 +42,7 @@ loaded_data = loadDataFromFile(file_name)
 
 if loaded_data == '':
     print("--YAML file doesn't exist!")
-elif len(loaded_data) == 0: 
+elif loaded_data == None: 
     print("--YAML file is empty!")
 else:
     print("\nStart calculating needed number of trolley...")
