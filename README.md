@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cargo Loading Application
 
 ## Requirements
@@ -21,8 +20,6 @@ To execute the unit tests, run:
 ```bash
 python cargoAppTest.py
 ```
-=======
-[Click to visit the web application](http://didiliu2022.pythonanywhere.com/)
 
 ## Outline of the Web Application
 
@@ -116,4 +113,3 @@ The web application would make some design changes to support multiple branches.
 4.Issue and Return Book would let the staff choose which branch they would like to issue from or return to if this book is physical. 
 
 5.Staff page would add branch access for staff to check each branch's database information, such as a summary of numbers of physical books each branch has, a loans summary of each branch, a borrowers summary that the number of loans they have had in each branch.
->>>>>>> 235a3941309b7236a55f44a00d57db486732e3bd
