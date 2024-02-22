@@ -1,4 +1,4 @@
-# Cargo loading application
+# Cargo Loading Application
 
 ## Requirements
 Before using this application, ensure you have PyYAML installed.
